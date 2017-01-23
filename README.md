@@ -1,5 +1,5 @@
 ﻿#Columbots ASEE Competition 2017
-## *team name here*
+## Team: *team name here*
 ###Members
 * 
 * 
