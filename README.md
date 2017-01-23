@@ -6,8 +6,6 @@
 * 
 * 
 
-Testing git GUI, temporary change...
-
 ## Competition Rules
 *These rules are subject to change and should be used as a reference only. For the most recent official rules refer to the <a href="http://faculty.tcc.edu/PGordy/ASEE/ASEE2017/index.html">website</a>.
 
