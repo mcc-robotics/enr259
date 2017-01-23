@@ -1,7 +1,7 @@
 ﻿#Columbots ASEE Competition 2017
-##Team Zoltron
+## *team name here*
 ###Members
-* Geoff Berl
+* 
 * 
 * 
 * 
