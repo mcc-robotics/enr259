@@ -1,0 +1,1 @@
+This folder should contain circuit designs (ex. EagleCad Drawings)
