@@ -105,3 +105,9 @@ xcuserdata/
 *.moved-aside
 *.xccheckout
 *.xcscmblueprint
+
+#
+# Solidworks Specific
+#
+
+*~$*.SLDPRT
