@@ -1,9 +1,9 @@
 ﻿#Columbots ASEE Competition 2017
 ## Team: *team name here*
 ###Members
-* 
-* 
-* 
+* Geoff
+* Christopher
+* John
 * 
 
 ## Competition Rules
