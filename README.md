@@ -1,5 +1,5 @@
 ﻿#Columbots ASEE Competition 2017
-## Team: MCC Engineering
+## Team: *team name here*
 ###Members
 * 
 * 
