@@ -1,6 +1,6 @@
-﻿#Columbots ASEE Competition 2017
-## Team: Them
-###Members
+﻿# Columbots ASEE Competition 2017
+## Team: <Team Name Here>
+### Members
 * 
 * 
 * 
@@ -9,10 +9,10 @@
 ## Competition Rules
 *These rules are subject to change and should be used as a reference only. For the most recent official rules refer to the <a href="http://faculty.tcc.edu/PGordy/ASEE/ASEE2017/index.html">website</a>.
 
-###Objective
+### Objective
 To design and build an autonomous robot that can transport one blue barrel from Spain to each of 6 islands visited by Christopher Columbus and return one red barrel from each island to Spain. The robots will have a maximum time of 90 seconds in each of their four allotted trials. The robot must begin within an 8” X 12” X 10” high size limit but may expand to any size during a trial. An Exhibit Session will precede the robot trials.
 
-###Rules
+### Rules
 1. It is the responsibility of the team to inspect the condition of the track before starting their robot to be certain that everything is in order. Once a team presses or pulls the start mechanism, the run counts as an official trial and may not be done over.
 
 2. The order of testing will be determined by random draw.
@@ -46,16 +46,16 @@ To design and build an autonomous robot that can transport one blue barrel from 
 
 <strong>Teams may not make practice runs during the Exhibit Session or after the start of the Robot Time Trials.</strong>
 
-###Robot Specifications
+### Robot Specifications
 
-####<u>Allowable Energy Sources:</u>
+#### <u>Allowable Energy Sources:</u>
 Any energy source is allowed as long as it is completely contained within the robot and does not create or emit any gaseous, liquid, or solid emissions. Energy sources must not present any safety hazards to participants or spectators.
-####<u>Prohibition Against Flying Robots:</u>
+#### <u>Prohibition Against Flying Robots:</u>
 Since the competition is held in a crowded Exhibition Hall with hundreds of spectators, flying robots (such as quad copters) are prohibited.
-#####<u>Maximum Robot Size:</u>
+##### <u>Maximum Robot Size:</u>
 The robot (including the 6 blue dowels) must fit inside a box with vertical sides having inside dimensions of 8.0” X 12.0” and have a maximum height of 10.0”. The robot may expand to any size after the start of a trial.
 The robot cannot contain more than 6 blue dowels.
-####<u>Components, Fabrication, and Cost:</u>
+#### <u>Components, Fabrication, and Cost:</u>
 Team members using materials which are commonly available to the general public must perform all fabrication. Use of commercially available vehicles, robots, or entire kits such as RC cars, Legos, K-nex, Fischer-Technics, Parallax or erector sets may not be used. The use of <strong>Lego Mindstorm microcontroller bricks are prohibited</strong>. Individual components from these cars, robots, or kits (except the Mindstorm Brick) may be integrated into a team’s robot as long as the majority of the robot’s components are not from the same
 car, robot, or kit source. The cost of purchasing all components must not exceed **$400**. 
 
